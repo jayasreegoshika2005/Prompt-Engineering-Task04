@@ -1,0 +1,13 @@
+Assistant: Hello! How can I help you today?
+
+You: I need help
+Assistant: Sure! Tell me what topic you want help with.
+
+You: Explain Python
+Assistant: Python is a simple and powerful programming language.
+
+You: What about ML?
+Assistant: Machine Learning helps computers learn from data.
+
+You: ok thanks
+Assistant: I can help with study topics like Python, ML, AI. Ask me anything!
